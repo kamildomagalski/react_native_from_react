@@ -5,7 +5,7 @@
 ## General info
 
 This is a simple app with info about coding tutorials prepared by Emmanuel Henri. 
-The point was to convert traditional webb app into mobile one, and see how it's differ form a web one. 
+The point was to convert traditional webb app into mobile one, and see how they are differ. 
 Theres no advanced styling, top tier mobile coding practices or folder structure.<br />
 Just a 'proof of concept" for myself.
 
