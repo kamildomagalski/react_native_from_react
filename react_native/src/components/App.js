@@ -13,11 +13,8 @@ import courses from '../data/courses.json';
 import styles from '../styles/AppStyles';
 
 const handleClick = link => {
-  console.log('cilck');
   Linking.canOpenURL(link).then(supported => {
-    console.log(supported);
     if (supported) {
-      console.log('działa');
       Linking.openURL(link);
     } else {
       console.log("Don't know how to open that URL: " + link);
